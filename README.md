@@ -1,2 +1,2 @@
 # api-demo
-api demos for netskope tenant gmc
+api demos for netskope
